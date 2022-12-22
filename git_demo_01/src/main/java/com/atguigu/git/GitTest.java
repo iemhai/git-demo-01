@@ -8,5 +8,6 @@ public class GitTest {
 		System.out.println("==push test==");
 		System.out.println("==pull pull test==");
 		System.out.println("==pull pull test 2==");
+		System.out.println("==同步更新到gitee ==");
 	}
 }
